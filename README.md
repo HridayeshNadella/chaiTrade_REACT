@@ -1,3 +1,4 @@
+Project Name : ChaiTrade
 Client : React Application
 Server : Node.js API, serving requests for react Application.
 
